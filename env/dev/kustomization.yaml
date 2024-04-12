@@ -5,5 +5,5 @@ resources:
 - ../../base
 
 images:
-- name: ghcr.io/<username>/demo-app
+- name: ghcr.io/zhmarvi/demo-app
   newTag: latest
